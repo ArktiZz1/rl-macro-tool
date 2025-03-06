@@ -1,2 +1,1 @@
-# rl-macro-tool
-macro tool for rocket league
+you need to restet you keyboard bindings 
