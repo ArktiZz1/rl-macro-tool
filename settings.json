@@ -1,0 +1,161 @@
+{
+    "controller_mapping": {
+        "buttons": {
+            "cross": 0,
+            "circle": 1,
+            "square": 2,
+            "triangle": 3,
+            "L1": 9,
+            "R1": 10,
+            "share": 8,
+            "options": 5,
+            "L3": 7,
+            "R3": 8,
+            "dPad Up": 11,
+            "dPad Down": 12,
+            "dPad Left": 13,
+            "dPad Right": 14,
+            "touch pad": 15,
+            "mute": 16,
+            "L4": 17,
+            "R4": 18,
+            "L5": 19,
+            "R5": 20
+        }
+    },
+    "controller_type": "PS5",
+    "controller_buttons": {
+        "speed_flip_right": [
+            "square",
+            "Not Set"
+        ],
+        "half_flip": [
+            "touch pad",
+            "Not Set"
+        ],
+        "horse_dash": [
+            "mute",
+            "Not Set"
+        ],
+        "zelda": [
+            "Not Set",
+            "Not Set"
+        ],
+        "wall_dash_right": [
+            "touch pad",
+            "Not Set"
+        ],
+        "ndhibskaukjddsadkjhinasd": [
+            "Not Set",
+            "Not Set"
+        ],
+        "speed_flip_left": [
+            "Not Set",
+            "cross"
+        ]
+    },
+    "keyboard_hotkeys": {
+        "speed_flip_right": [
+            "",
+            ""
+        ],
+        "speed_flip_left": [
+            "",
+            ""
+        ],
+        "speed_flip_both": [
+            "",
+            ""
+        ],
+        "speed_flip_zap_right_version": [
+            "",
+            ""
+        ],
+        "speed_flip_zap_left_version": [
+            "",
+            ""
+        ],
+        "speed_flip_zap_both_version": [
+            "",
+            ""
+        ],
+        "half_flip": [
+            "",
+            ""
+        ],
+        "horse_dash": [
+            "",
+            ""
+        ],
+        "mawkzy": [
+            "",
+            ""
+        ],
+        "breezi": [
+            "",
+            ""
+        ],
+        "stall": [
+            "",
+            ""
+        ],
+        "wall_dash_right": [
+            "",
+            ""
+        ],
+        "wall_dash_left": [
+            "",
+            ""
+        ],
+        "wave_dash": [
+            "",
+            ""
+        ],
+        "kuxir_pnich": [
+            "",
+            ""
+        ],
+        "zelda": [
+            "",
+            ""
+        ],
+        "ndhibskaukjddsadkjhinasd": [
+            "",
+            ""
+        ]
+    },
+    "key_bindings": {
+        "Jump": "right",
+        "Boost": "left",
+        "Move Forward": "w",
+        "Air Roll Right": "e",
+        "Air Roll Left": "q",
+        "Air Steer Left": "a",
+        "Air Steer Right": "d"
+    },
+    "macro_states": {
+        "speed_flip_right": true,
+        "speed_flip_left": false,
+        "speed_flip_both": false,
+        "speed_flip_zap_right_version": false,
+        "speed_flip_zap_left_version": false,
+        "speed_flip_zap_both_version": false,
+        "half_flip": false,
+        "horse_dash": true,
+        "mawkzy": false,
+        "breezi": false,
+        "stall": false,
+        "wall_dash_right": true,
+        "wall_dash_left": false,
+        "wave_dash": false,
+        "kuxir_pnich": false,
+        "zelda": false,
+        "ndhibskaukjddsadkjhinasd": true
+    },
+    "activate_macro": true,
+    "two_button_activation": {
+        "zelda": false,
+        "ndhibskaukjddsadkjhinasd": false,
+        "horse_dash": false
+    }
+}
